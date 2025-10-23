@@ -1,5 +1,5 @@
 # Python Workflow Definition - Quantum Espresso - Data Export
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jan-janssen/pwd-qe-data-export/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pythonworkflow/proposal-for-data-export/HEAD)
 
 Extending the `JSON` format to support output and working directory. 
 
