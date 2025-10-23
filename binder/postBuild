@@ -1,2 +1,3 @@
 #!/bin/bash
 pip install -e quantum_espresso/qe_xml_parser
+pip install git+https://github.com/pythonworkflow/python-workflow-definition.git
