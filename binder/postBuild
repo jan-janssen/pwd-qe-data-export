@@ -1,2 +1,2 @@
 #!/bin/bash
-pip install -e quantum_espresso/qe_xml_parser
+pip install -e qe_xml_parser
