@@ -1,0 +1,12 @@
+channels:
+- conda-forge
+dependencies:
+- python
+- python-workflow-definition =0.1.0
+- pyiron_base =0.15.5
+- ase=3.24.0
+- matplotlib=3.10.1
+- xmlschema=3.4.3
+- optimade=1.2.3
+- qe=7.4
+- qe-tools=2.0.0
