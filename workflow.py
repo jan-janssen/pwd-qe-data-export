@@ -39,6 +39,7 @@ def collect_output(working_directory="."):
 
 
 def calculate_qe(working_directory, input_dict):
+    working_directory = "."  # overwrite working directory 
     write_input(
         input_dict=input_dict,
         working_directory=working_directory,
